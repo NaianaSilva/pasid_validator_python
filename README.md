@@ -60,11 +60,11 @@ O **PASID-VALIDATOR** é um sistema distribuído desenvolvido com o objetivo de 
 
 ## Veja abaixo os comandos necessários para rodar o projeto:
 
-Em um terminal rode python load_balancer2.py
-Em outro rode python load_balancer1.py
-No terceiro rode python source.py
+Em um terminal rode python load_balancer2.py, 
+em outro rode python load_balancer1.py, 
+no terceiro rode python source.py. 
 
-Ou pode rodar tudo em uma só execução: utilizando python main.py
+Ou pode rodar tudo em uma só execução: utilizando python main.py.
 
 
 
