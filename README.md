@@ -11,7 +11,7 @@ O **PASID-VALIDATOR** é um sistema distribuído desenvolvido com o objetivo de 
 - Visualizar o desempenho através de gráficos.
 - Testar conceitos de tolerância a falhas e escalabilidade.
 
-## 🏗️ Arquitetura do Sistema
+##  Arquitetura do Sistema
 
 ```plaintext
            +---------+
