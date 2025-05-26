@@ -58,4 +58,13 @@ O **PASID-VALIDATOR** é um sistema distribuído desenvolvido com o objetivo de 
 - O sistema gera um gráfico representando o **Tempo Médio de Resposta (MRT)** por requisição.
 - O gráfico é salvo automaticamente como `mrt_graph.png` e também é exibido na tela.
 
+## Veja abaixo os comandos necessários para rodar o projeto:
+
+Em um terminal rode python load_balancer2.py
+Em outro rode python load_balancer1.py
+No terceiro rode python source.py
+
+Ou pode rodar tudo em uma só execução: utilizando python main.py
+
+
 
